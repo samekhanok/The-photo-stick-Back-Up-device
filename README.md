@@ -16,26 +16,6 @@ ThePhotoStick Mobile can be considered one of those ultimate symbols of convenie
 
 With this tool, you don't have to connect your phone to a laptop to back up your files (even with web applications making this process easier, it's still boring). With this tool all photos and videos of your travels, parties and random moments will be saved with just one click - no additional hardware needed. This is a good way to prevent your photos and videos from being physically damaged.
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 The PhotoStick Mobile for iPhone and Android was featured in MarketWatch, Chicago Business Journal, ADVFN, San Francisco Business Times and Wall Street Select. It was hailed as the best flash drive for iPhone and Android and as the facilitators we are, we wanted to see how it really works and tell it to you.
 
 Just to make it clear, this review is for the mobile version of The PhotoStick. And you can easily combine both! If you want a similar desktop solution, you can rest easy. She is right here
